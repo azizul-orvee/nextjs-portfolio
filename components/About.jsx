@@ -16,7 +16,7 @@ const About = () => {
             / / I am not your average developer
           </p>
           <p className='py-2 text-gray-600'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus necessitatibus eos aliquam esse quasi, nihil omnis repellat architecto et? Cumque, dicta iure, fugiat sequi necessitatibus praesentium consequuntur ullam suscipit earum quam nihil veniam, doloribus velit quis quidem quas labore numquam? Esse, tenetur modi aperiam officia culpa maiores illum est nisi eaque ex ab deleniti reiciendis dolorum quam, cumque voluptas iste adipisci! Excepturi, nesciunt dolorem. Repellat nemo aperiam, voluptatibus sed dolorum facere odio, maiores laboriosam optio dolor numquam quis saepe. Optio.
+            Lorem dolor sit, amet consectetur adipisicing elit. Accusamus necessitatibus eos aliquam esse quasi, nihil omnis repellat architecto et? Cumque, dicta iure, fugiat sequi necessitatibus praesentium consequuntur ullam suscipit earum quam nihil veniam, doloribus velit quis quidem quas labore numquam? Esse, tenetur modi aperiam officia culpa maiores illum est nisi eaque ex ab deleniti reiciendis dolorum quam, cumque voluptas iste adipisci! Excepturi, nesciunt dolorem. Repellat nemo aperiam, voluptatibus sed dolorum facere odio, maiores laboriosam optio dolor numquam quis saepe. Optio.
 
           </p>
           <p className='py-2 text-gray-600'>
